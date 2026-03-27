@@ -75,5 +75,8 @@ DriftGuard addresses the limitations of conventional input devices for users wit
 * **Enclosure**: 3D printed housing to package the device for practical daily use.
 * **Serial Configuration**: Runtime tuning of dead zones, dwell time, and hold thresholds via serial commands without reflashing.
 
+## Schematic
+[DriftGuard.pdf](DriftGuard.pdf)
+
 ## License
 MIT License
